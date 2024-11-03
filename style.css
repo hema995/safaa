@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
+  padding: 10px;
 }
 
 body {
@@ -14,13 +15,11 @@ body {
   background-color: #ffe5e5;
 }
 
-p {
-  font-size: 30px;
+.gif{
+  width: 100%;
+  height: 100%;
 }
 
-h1 {
-  font-size: 45px;
-}
 
 .container {
   display: flex;
